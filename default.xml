@@ -272,5 +272,5 @@
   <project path="frameworks/base" name="intervigilium/android_frameworks_base" revision="ics-ville"/>
   <project path="device/htc/evita" name="vmagro/android_device_htc_evita" revision="ics"/>
   <project path="vendor/htc/evita" name="vmagro/android_vendor_htc_evita" revision="ics"/>
-  <project path="device/htc/msm8960_common">
+  <project path="device/htc/msm8960_common"/>
 </manifest>
