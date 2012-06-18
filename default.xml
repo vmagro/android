@@ -269,7 +269,7 @@
   
   <project path="hardware/alsa-sound" name="intervigilium/hardware_alsa_sound" revision="ics-chocolate"/>
   <project path="vendor/qcom/opensource/kernel-tests/mm-audio" name="intervigilium/vendor_qcom_opensource_kernel-tests_mm-audio" revision="ics-chocolate"/>
-  <project path="frameworks/base" name="intervigilium/android_frameworks_base" revision="ics-ville"/>
+  <project path="frameworks/base" name="vmagro/android_frameworks_base" revision="ics"/>
   <project path="device/htc/evita" name="vmagro/android_device_htc_evita" revision="ics"/>
   <project path="vendor/htc/evita" name="vmagro/android_vendor_htc_evita" revision="ics"/>
   <project path="device/htc/msm8960_common" name="xkonni/android_device_htc_msm8960_common" revision="master"/>
